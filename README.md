@@ -1,5 +1,5 @@
 # img-to-ascii-converter
 convert your image
-![cat image](https://github.com/KacperKuznik/img-to-ascii-converter/edit/main/cat.jpg?raw=true)
+![cat image](cat.jpg)
 to ascii
-![ascii cat image](https://github.com/KacperKuznik/img-to-ascii-converter/edit/main/ascii_cat.jpg?raw=true)
+![ascii cat image](ascii_cat.jpg)
